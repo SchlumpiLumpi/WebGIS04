@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Istanbul", "country": "Turkey",  "population": 15655924, "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg"}, 
+        "geometry": {
+          "coordinates": [
+           28.955,  41.013611
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties":  {"cityname": "Moscow", "country": "Russia",  "population": 13149803, "picture": "https://upload.wikimedia.org/wikipedia/commons/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg"},
+        "geometry": {
+          "coordinates": [
+            37.617222, 55.755833	
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "London", "country": "United Kingdom",  "population": 8926568, "picture": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg"},
+        "geometry": {
+          "coordinates": [
+            -0.1275, 51.507222 	
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Saint Petersburg", "country": "Russia",  "population": 5597763, "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Winter_Palace_Panorama_3.jpg"},
+        "geometry": {
+          "coordinates": [
+            30.308611, 59.9375
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Berlin", "country": "Germany",  "population": 3755251, "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29.jpg"},
+        "geometry": {
+          "coordinates": [
+            13.405, 52.52
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Madrid", "country": "Spain",  "population": 3332035, "picture": "https://upload.wikimedia.org/wikipedia/commons/1/14/Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg"},
+        "geometry": {
+          "coordinates": [
+            -3.703333, 40.416944
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Kiev", "country": "Ukraine",  "population": 2952301, "picture": "https://upload.wikimedia.org/wikipedia/commons/4/49/17-07-02-Maidan_Nezalezhnosti_RR74377-PANORAMA.jpg"},
+        "geometry": {
+          "coordinates": [
+            30.523333, 50.45
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Rome", "country": "Italy",  "population": 2755309, "picture": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rome_skyline_panorama.jpg"},
+        "geometry": {
+          "coordinates": [
+            12.482778, 41.893333
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Baku", "country": "Azerbaijan",  "population": 2336600, "picture": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Maiden_Tower_in_Baku_2015.jpg"},
+        "geometry": {
+          "coordinates": [
+            49.882222, 40.395278	
+
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {"cityname": "Paris", "country": "France",  "population": 2102650, "picture": "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg"},
+        "geometry": {
+          "coordinates": [
+             2.352222, 48.856667
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }

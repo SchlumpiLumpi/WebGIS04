@@ -102,7 +102,7 @@ function file_upload()
     let filetype=getFiletype(file)
     
     
-    if(filetype==="json" || filetype =="geojson")
+    if (filetype == "json" || filetype == "geojson" || filetype=="JSON" || filetype=="geoJSON" || filetype=="GEOJSON") {
     {
     validFile=true
     console.log("File Type:",filetype)

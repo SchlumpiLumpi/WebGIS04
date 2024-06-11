@@ -95,7 +95,7 @@ function file_upload() {
     let filetype = getFiletype(file)
 
 
-    if (filetype === "json" || filetype == "geojson" || filetype=="JSON" || filetype=="geoJSON" || filetype=="GEOJSON") {
+    if (filetype == "json" || filetype == "geojson" || filetype=="JSON" || filetype=="geoJSON" || filetype=="GEOJSON") {
         console.log("File Type:", filetype)
         let reader = new FileReader()
         reader.readAsText(file)

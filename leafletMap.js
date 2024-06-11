@@ -264,14 +264,8 @@ map.on("draw:editstop", function () {
     layerControl = L.control.layers(baseMaps).addTo(map);
     drawCityMarkers(selectedCities, "Selected Cities")
     layerControl.addOverlay(drawnFeatures, "draw layer")
-
-
-
-
-
-
-
 })
+
 map.on("draw:deletestart", function () {
     console.log("reset Map")
     drawnFeatures.clearLayers()
